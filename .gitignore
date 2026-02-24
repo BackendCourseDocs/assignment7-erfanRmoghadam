@@ -1,0 +1,27 @@
+#Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+.env
+
+#VSCode
+.vscode/
+
+#PostgreSQL
+*.db
+*.sql
+*.sqlite3
+
+#Logs
+*.log
+
+# Build / cache
+dist/
+build/
+*.egg-info/
